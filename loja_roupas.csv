@@ -1,0 +1,510 @@
+id_venda,data,categoria,produto,genero_produto,quantidade,preco_unitario,valor,forma_pagamento,cliente_cadastrado,estado
+1,2025-03-01 09:45:27,Camisas,Camisa polo,Masculino,1,86.16,86.16,Pix,Não,SE
+2,2025-03-01 14:27:04,Calças,Calça de moletom,Unissex,1,144.66,144.66,Cartão Crédito,Sim,MT
+3,2025-03-01 19:54:07,Camisas,Camisa social,Unissex,1,76.46,76.46,Cartão Débito,Não,MA
+4,2025-03-01 19:26:20,Acessórios,Boné,Unissex,1,43.83,43.83,Dinheiro,Não,MA
+5,2025-03-01 12:26:42,Camisas,Camisa polo,Masculino,2,90.45,180.90,Cartão Crédito,Sim,RO
+6,2025-03-02 18:36:19,Vestidos,Vestido casual,Feminino,2,142.62,285.24,Pix,Não,TO
+7,2025-03-02 13:18:13,Camisas,Camisa social,Unissex,3,68.43,205.29,Cartão Débito,Não,RJ
+8,2025-03-02 16:28:28,Calças,Calça social,Unissex,1,122.78,122.78,Cartão Crédito,Não,PE
+9,2025-03-02 11:42:05,Acessórios,Bolsa,Feminino,1,38.55,38.55,Dinheiro,Sim,RO
+10,2025-03-03 10:52:48,Camisas,Camisa polo,Masculino,1,71.20,71.20,Pix,Não,MA
+11,2025-03-03 12:09:01,Vestidos,Vestido casual,Feminino,1,168.90,168.90,Cartão Crédito,Sim,PR
+12,2025-03-03 16:26:56,Calças,Calça social,Unissex,1,115.65,115.65,Cartão Débito,Não,DF
+13,2025-03-04 16:25:15,Acessórios,Cinto,Unissex,1,41.30,41.30,Dinheiro,Não,RR
+14,2025-03-04 10:49:27,Camisas,Camiseta estampada,Unissex,1,79.88,79.88,Pix,Sim,SE
+15,2025-03-04 09:35:15,Vestidos,Vestido estampado,Feminino,1,138.45,138.45,Cartão Crédito,Não,AM
+16,2025-03-05 11:51:29,Calças,Calça de moletom,Unissex,1,128.76,128.76,Cartão Débito,Não,PI
+17,2025-03-05 16:39:52,Camisas,Camiseta estampada,Unissex,1,65.90,65.90,Dinheiro,Sim,PE
+18,2025-03-05 17:28:57,Acessórios,Carteira,Masculino,1,36.80,36.80,Pix,Não,PR
+19,2025-03-06 13:48:15,Vestidos,Vestido estampado,Feminino,2,155.20,310.40,Cartão Crédito,Não,GO
+20,2025-03-06 19:15:17,Camisas,Camisa social,Unissex,1,73.55,73.55,Cartão Débito,Sim,RR
+21,2025-03-07 12:17:21,Calças,Calça jeans,Unissex,2,132.40,264.80,Dinheiro,Não,PI
+22,2025-03-07 11:09:14,Acessórios,Boné,Unissex,2,44.15,88.30,Pix,Não,BA
+23,2025-03-07 10:26:26,Camisas,Camiseta estampada,Unissex,1,82.30,82.30,Cartão Crédito,Sim,PB
+24,2025-03-08 09:13:53,Vestidos,Vestido casual,Feminino,1,175.80,175.80,Cartão Débito,Sim,SP
+25,2025-03-08 18:24:30,Calças,Calça de moletom,Unissex,3,141.25,423.75,Dinheiro,Não,MS
+26,2025-03-08 15:54:57,Camisas,Camisa polo,Masculino,1,77.65,77.65,Pix,Não,PA
+27,2025-03-09 16:14:17,Acessórios,Carteira,Masculino,1,39.90,39.90,Cartão Crédito,Sim,AC
+28,2025-03-09 14:42:43,Camisas,Camisa polo,Masculino,1,69.40,69.40,Cartão Débito,Não,SC
+29,2025-03-10 16:58:08,Vestidos,Vestido casual,Feminino,2,148.55,297.10,Dinheiro,Não,PI
+30,2025-03-10 15:37:36,Calças,Calça social,Unissex,1,119.30,119.30,Pix,Sim,AP
+31,2025-03-11 11:55:29,Camisas,Camiseta estampada,Unissex,2,74.85,149.70,Cartão Crédito,Não,GO
+32,2025-03-11 14:13:29,Acessórios,Carteira,Masculino,2,42.60,85.20,Cartão Débito,Não,SP
+33,2025-03-12 13:48:53,Vestidos,Vestido casual,Feminino,1,162.70,162.70,Dinheiro,Sim,TO
+34,2025-03-12 16:01:47,Calças,Calça chino,Masculino,3,125.45,376.35,Pix,Não,MS
+35,2025-03-13 19:04:49,Camisas,Camiseta básica,Unissex,1,71.90,71.90,Cartão Crédito,Sim,AL
+36,2025-03-13 12:12:53,Acessórios,Boné,Unissex,1,37.45,37.45,Cartão Débito,Não,BA
+37,2025-03-14 11:30:42,Vestidos,Vestido estampado,Feminino,2,152.30,304.60,Dinheiro,Não,DF
+38,2025-03-14 13:49:23,Calças,Calça jeans,Unissex,1,136.80,136.80,Pix,Sim,RN
+39,2025-03-14 11:19:06,Camisas,Camiseta estampada,Unissex,2,84.55,169.10,Cartão Crédito,Não,MA
+40,2025-03-15 15:45:12,Acessórios,Boné,Unissex,1,45.20,45.20,Cartão Débito,Não,RR
+41,2025-03-15 10:44:49,Vestidos,Vestido casual,Feminino,2,180.10,360.20,Dinheiro,Sim,RO
+42,2025-03-15 18:50:02,Camisas,Camisa social,Unissex,1,78.95,78.95,Pix,Não,PA
+43,2025-03-16 10:32:41,Calças,Calça social,Unissex,1,117.55,117.55,Cartão Crédito,Não,PA
+44,2025-03-16 10:27:23,Camisas,Camiseta estampada,Unissex,1,67.80,67.80,Cartão Débito,Sim,TO
+45,2025-03-17 11:27:11,Acessórios,Bolsa,Feminino,1,35.90,35.90,Dinheiro,Não,RS
+46,2025-03-17 18:51:58,Vestidos,Vestido estampado,Feminino,1,145.65,145.65,Pix,Não,PR
+47,2025-03-18 15:52:46,Calças,Calça chino,Masculino,1,130.25,130.25,Cartão Crédito,Sim,MT
+48,2025-03-18 10:17:56,Camisas,Camiseta estampada,Unissex,1,75.30,75.30,Cartão Débito,Não,SP
+49,2025-03-19 18:39:42,Acessórios,Carteira,Masculino,1,40.75,40.75,Dinheiro,Não,AC
+50,2025-03-19 14:11:31,Vestidos,Vestido longo,Feminino,1,158.40,158.40,Pix,Sim,SE
+51,2025-03-20 14:17:56,Camisas,Camiseta básica,Unissex,1,72.15,72.15,Cartão Crédito,Não,GO
+52,2025-03-20 17:12:05,Calças,Calça social,Unissex,1,123.90,123.90,Cartão Débito,Não,PA
+53,2025-03-21 17:48:15,Acessórios,Carteira,Masculino,1,43.55,43.55,Dinheiro,Sim,RS
+54,2025-03-21 16:50:01,Vestidos,Vestido estampado,Feminino,3,165.80,497.40,Pix,Não,ES
+55,2025-03-21 12:19:42,Camisas,Camisa social,Unissex,1,81.40,81.40,Cartão Crédito,Não,PR
+56,2025-03-22 15:47:35,Calças,Calça social,Unissex,1,138.65,138.65,Cartão Débito,Sim,RR
+57,2025-03-22 13:19:16,Camisas,Camisa polo,Masculino,1,88.20,88.20,Dinheiro,Não,SC
+58,2025-03-22 14:07:47,Acessórios,Boné,Unissex,2,46.30,92.60,Pix,Não,SP
+59,2025-03-23 12:13:47,Vestidos,Vestido longo,Feminino,1,150.75,150.75,Cartão Crédito,Não,SC
+60,2025-03-23 10:53:12,Calças,Calça chino,Masculino,1,114.80,114.80,Cartão Débito,Sim,MS
+61,2025-03-24 13:00:45,Camisas,Camiseta básica,Unissex,4,66.55,266.20,Dinheiro,Não,GO
+62,2025-03-24 09:35:18,Acessórios,Carteira,Masculino,1,38.20,38.20,Pix,Não,BA
+63,2025-03-25 10:55:00,Vestidos,Vestido estampado,Feminino,1,172.90,172.90,Cartão Crédito,Sim,PR
+64,2025-03-25 16:21:11,Calças,Calça social,Unissex,2,126.75,253.50,Cartão Débito,Não,GO
+65,2025-03-26 10:52:04,Camisas,Camiseta básica,Unissex,2,76.10,152.20,Dinheiro,Não,AP
+66,2025-03-26 11:09:51,Acessórios,Cinto,Unissex,2,41.85,83.70,Pix,Sim,MA
+67,2025-03-27 12:07:35,Vestidos,Vestido midi,Feminino,1,147.30,147.30,Cartão Crédito,Não,RN
+68,2025-03-27 17:24:28,Calças,Calça social,Unissex,1,133.50,133.50,Cartão Débito,Não,MA
+69,2025-03-28 13:36:39,Camisas,Camiseta básica,Unissex,1,83.75,83.75,Dinheiro,Sim,SC
+70,2025-03-28 12:40:13,Acessórios,Boné,Unissex,1,44.90,44.90,Pix,Não,AP
+71,2025-03-28 12:11:35,Vestidos,Vestido estampado,Feminino,1,160.45,160.45,Cartão Crédito,Não,AC
+72,2025-03-29 16:44:38,Calças,Calça chino,Masculino,3,140.80,422.40,Cartão Débito,Sim,AL
+73,2025-03-29 13:45:18,Camisas,Camiseta básica,Unissex,2,79.55,159.10,Dinheiro,Não,PB
+74,2025-03-29 19:14:59,Acessórios,Boné,Unissex,1,36.60,36.60,Pix,Não,SE
+75,2025-03-30 15:07:34,Vestidos,Vestido longo,Feminino,2,154.25,308.50,Cartão Crédito,Sim,BA
+76,2025-03-30 11:04:03,Calças,Calça de moletom,Unissex,1,116.90,116.90,Cartão Débito,Não,MA
+77,2025-03-31 16:07:29,Camisas,Camiseta estampada,Unissex,3,70.45,211.35,Dinheiro,Não,RR
+78,2025-03-31 13:32:34,Acessórios,Cinto,Unissex,1,39.40,39.40,Pix,Não,AP
+79,2025-04-01 15:47:20,Vestidos,Vestido casual,Feminino,1,168.10,168.10,Cartão Crédito,Não,AC
+80,2025-04-01 12:43:53,Calças,Calça jeans,Unissex,1,129.35,129.35,Cartão Débito,Sim,RJ
+81,2025-04-02 19:52:17,Camisas,Camisa polo,Masculino,1,73.25,73.25,Dinheiro,Não,SP
+82,2025-04-02 16:33:41,Acessórios,Boné,Unissex,1,42.95,42.95,Pix,Não,GO
+83,2025-04-03 18:27:40,Vestidos,Vestido estampado,Feminino,1,143.80,143.80,Cartão Crédito,Sim,AP
+84,2025-04-03 14:26:21,Calças,Calça chino,Masculino,3,121.60,364.80,Cartão Débito,Não,AM
+85,2025-04-04 14:26:44,Camisas,Camiseta estampada,Unissex,1,85.60,85.60,Dinheiro,Não,RO
+86,2025-04-04 17:02:29,Acessórios,Bolsa,Feminino,1,45.75,45.75,Pix,Sim,GO
+87,2025-04-04 10:49:25,Vestidos,Vestido casual,Feminino,4,176.30,705.20,Cartão Crédito,Não,TO
+88,2025-04-05 19:55:34,Calças,Calça chino,Masculino,1,137.45,137.45,Cartão Débito,Não,AL
+89,2025-04-05 17:23:39,Camisas,Camiseta estampada,Unissex,1,87.10,87.10,Dinheiro,Sim,RS
+90,2025-04-05 09:13:17,Acessórios,Carteira,Masculino,1,40.25,40.25,Pix,Não,MA
+91,2025-04-06 16:07:01,Vestidos,Vestido midi,Feminino,1,151.90,151.90,Cartão Crédito,Não,RN
+92,2025-04-06 11:19:35,Calças,Calça jeans,Unissex,1,113.75,113.75,Cartão Débito,Sim,PA
+93,2025-04-07 12:53:58,Camisas,Camisa polo,Masculino,2,68.95,137.90,Dinheiro,Não,AM
+94,2025-04-07 16:59:45,Acessórios,Bolsa,Feminino,1,37.10,37.10,Pix,Não,RR
+95,2025-04-08 15:53:30,Vestidos,Vestido estampado,Feminino,1,164.55,164.55,Cartão Crédito,Sim,ES
+96,2025-04-08 17:09:24,Calças,Calça chino,Masculino,1,124.80,124.80,Cartão Débito,Não,RN
+97,2025-04-09 10:17:49,Camisas,Camisa social,Unissex,4,74.40,297.60,Dinheiro,Não,PA
+98,2025-04-09 17:17:52,Acessórios,Bolsa,Feminino,1,43.25,43.25,Pix,Sim,SC
+99,2025-04-10 18:37:42,Vestidos,Vestido estampado,Feminino,3,149.65,448.95,Cartão Crédito,Não,BA
+100,2025-04-10 17:30:22,Calças,Calça social,Unissex,2,131.20,262.40,Cartão Débito,Não,SP
+101,2025-04-11 16:59:20,Camisas,Camisa polo,Masculino,1,82.85,82.85,Dinheiro,Sim,RR
+102,2025-04-11 18:24:14,Acessórios,Cinto,Unissex,2,44.50,89.00,Pix,Não,PA
+103,2025-04-11 14:47:30,Vestidos,Vestido estampado,Feminino,2,171.40,342.80,Cartão Crédito,Não,SE
+104,2025-04-12 15:42:50,Calças,Calça social,Unissex,1,139.75,139.75,Cartão Débito,Sim,BA
+105,2025-04-12 09:08:32,Camisas,Camiseta básica,Unissex,1,78.30,78.30,Dinheiro,Não,MT
+106,2025-04-12 16:06:33,Acessórios,Boné,Unissex,1,35.85,35.85,Pix,Não,AC
+107,2025-04-13 15:55:41,Vestidos,Vestido estampado,Feminino,1,156.80,156.80,Cartão Crédito,Não,AP
+108,2025-04-13 13:21:39,Calças,Calça jeans,Unissex,1,118.45,118.45,Cartão Débito,Sim,RS
+109,2025-04-14 14:54:43,Camisas,Camisa social,Unissex,1,69.70,69.70,Dinheiro,Não,MG
+110,2025-04-14 19:45:56,Acessórios,Cinto,Unissex,3,38.85,116.55,Pix,Não,PI
+111,2025-04-15 18:04:15,Vestidos,Vestido midi,Feminino,2,166.95,333.90,Cartão Crédito,Sim,MA
+112,2025-04-15 10:27:06,Calças,Calça jeans,Unissex,1,127.60,127.60,Cartão Débito,Não,RR
+113,2025-04-16 16:10:44,Camisas,Camiseta básica,Unissex,1,75.75,75.75,Dinheiro,Não,AC
+114,2025-04-16 14:50:03,Acessórios,Carteira,Masculino,1,41.50,41.50,Pix,Sim,MS
+115,2025-04-17 11:15:33,Vestidos,Vestido midi,Feminino,3,146.20,438.60,Cartão Crédito,Não,RO
+116,2025-04-17 11:11:05,Calças,Calça chino,Masculino,2,134.90,269.80,Cartão Débito,Não,MG
+117,2025-04-18 16:58:37,Camisas,Camisa social,Unissex,1,84.95,84.95,Dinheiro,Sim,PB
+118,2025-04-18 16:16:42,Acessórios,Carteira,Masculino,1,45.40,45.40,Pix,Não,SE
+119,2025-04-18 13:43:34,Vestidos,Vestido longo,Feminino,1,163.15,163.15,Cartão Crédito,Não,PB
+120,2025-04-19 18:19:40,Calças,Calça de moletom,Unissex,1,142.55,142.55,Cartão Débito,Sim,RR
+121,2025-04-19 16:54:19,Camisas,Camiseta estampada,Unissex,2,89.30,178.60,Dinheiro,Não,MG
+122,2025-04-19 10:15:24,Acessórios,Bolsa,Feminino,1,46.85,46.85,Pix,Não,RJ
+123,2025-04-20 13:01:53,Vestidos,Vestido casual,Feminino,2,153.50,307.00,Cartão Crédito,Não,GO
+124,2025-04-20 18:55:43,Calças,Calça social,Unissex,1,115.35,115.35,Cartão Débito,Sim,AL
+125,2025-04-21 13:49:51,Camisas,Camisa social,Unissex,1,67.25,67.25,Dinheiro,Não,SE
+126,2025-04-21 12:40:12,Acessórios,Boné,Unissex,1,37.90,37.90,Pix,Não,RO
+127,2025-04-22 19:06:57,Vestidos,Vestido longo,Feminino,1,170.60,170.60,Cartão Crédito,Sim,AL
+128,2025-04-22 16:02:37,Calças,Calça jeans,Unissex,3,128.90,386.70,Cartão Débito,Não,BA
+129,2025-04-23 13:20:47,Camisas,Camisa polo,Masculino,2,72.85,145.70,Dinheiro,Não,DF
+130,2025-04-23 17:56:23,Acessórios,Boné,Unissex,2,42.35,84.70,Pix,Sim,GO
+131,2025-04-24 13:58:52,Vestidos,Vestido longo,Feminino,1,144.95,144.95,Cartão Crédito,Não,SE
+132,2025-04-24 14:51:07,Calças,Calça chino,Masculino,1,122.45,122.45,Cartão Débito,Não,AP
+133,2025-04-25 12:55:43,Camisas,Camisa social,Unissex,2,81.95,163.90,Dinheiro,Sim,MG
+134,2025-04-25 10:50:25,Acessórios,Cinto,Unissex,3,44.05,132.15,Pix,Não,PI
+135,2025-04-25 16:23:43,Vestidos,Vestido estampado,Feminino,1,174.20,174.20,Cartão Crédito,Não,GO
+136,2025-04-26 19:23:06,Calças,Calça jeans,Unissex,1,136.15,136.15,Cartão Débito,Sim,PR
+137,2025-04-26 18:56:35,Camisas,Camisa polo,Masculino,1,80.75,80.75,Dinheiro,Não,RN
+138,2025-04-26 19:04:40,Acessórios,Bolsa,Feminino,2,39.15,78.30,Pix,Não,RR
+139,2025-04-27 19:26:07,Vestidos,Vestido longo,Feminino,2,155.40,310.80,Cartão Crédito,Não,AL
+140,2025-04-27 16:07:06,Calças,Calça chino,Masculino,1,117.80,117.80,Cartão Débito,Sim,PI
+141,2025-04-28 15:29:23,Camisas,Camiseta estampada,Unissex,1,70.95,70.95,Dinheiro,Não,SC
+142,2025-04-28 18:47:46,Acessórios,Cinto,Unissex,1,36.30,36.30,Pix,Não,PA
+143,2025-04-29 16:39:26,Vestidos,Vestido casual,Feminino,1,167.55,167.55,Cartão Crédito,Sim,GO
+144,2025-04-29 14:13:28,Calças,Calça de moletom,Unissex,2,126.05,252.10,Cartão Débito,Não,ES
+145,2025-04-30 10:43:23,Camisas,Camisa social,Unissex,1,76.80,76.80,Dinheiro,Não,RS
+146,2025-04-30 09:25:17,Acessórios,Carteira,Masculino,1,40.95,40.95,Pix,Sim,AM
+147,2025-03-01 10:42:13,Vestidos,Vestido casual,Feminino,1,158.30,158.30,Cartão Crédito,Não,RN
+148,2025-03-01 09:50:21,Calças,Calça chino,Masculino,2,120.25,240.50,Cartão Débito,Sim,BA
+149,2025-03-02 10:53:48,Camisas,Camisa polo,Masculino,1,71.55,71.55,Dinheiro,Não,RJ
+150,2025-03-02 12:21:49,Acessórios,Cinto,Unissex,1,38.65,38.65,Pix,Não,RN
+151,2025-03-03 13:54:09,Vestidos,Vestido longo,Feminino,4,161.80,647.20,Cartão Crédito,Sim,PI
+152,2025-03-03 11:07:42,Calças,Calça jeans,Unissex,1,132.85,132.85,Cartão Débito,Não,BA
+153,2025-03-04 14:50:50,Camisas,Camiseta básica,Unissex,1,77.90,77.90,Dinheiro,Não,MT
+154,2025-03-04 11:16:03,Acessórios,Cinto,Unissex,1,41.15,41.15,Pix,Sim,PA
+155,2025-03-05 10:30:28,Vestidos,Vestido casual,Feminino,1,141.50,141.50,Cartão Crédito,Não,PE
+156,2025-03-05 16:32:14,Calças,Calça de moletom,Unissex,1,118.60,118.60,Cartão Débito,Não,AL
+157,2025-03-06 16:41:01,Camisas,Camiseta estampada,Unissex,1,83.25,83.25,Dinheiro,Sim,PR
+158,2025-03-06 15:43:06,Acessórios,Cinto,Unissex,1,43.90,43.90,Pix,Não,PB
+159,2025-03-06 10:20:38,Vestidos,Vestido longo,Feminino,1,169.75,169.75,Cartão Crédito,Não,BA
+160,2025-03-07 18:40:37,Calças,Calça social,Unissex,1,135.40,135.40,Cartão Débito,Sim,MT
+161,2025-03-07 18:33:18,Camisas,Camiseta estampada,Unissex,1,85.90,85.90,Dinheiro,Não,RN
+162,2025-03-07 10:50:44,Acessórios,Boné,Unissex,1,45.65,45.65,Pix,Não,RS
+163,2025-03-08 15:28:56,Vestidos,Vestido estampado,Feminino,1,157.15,157.15,Cartão Crédito,Não,MT
+164,2025-03-08 15:26:46,Calças,Calça de moletom,Unissex,3,112.90,338.70,Cartão Débito,Sim,PA
+165,2025-03-09 19:16:23,Camisas,Camiseta estampada,Unissex,2,66.10,132.20,Dinheiro,Não,RO
+166,2025-03-09 10:05:53,Acessórios,Cinto,Unissex,1,36.15,36.15,Pix,Não,PA
+167,2025-03-10 14:51:08,Vestidos,Vestido longo,Feminino,1,163.25,163.25,Cartão Crédito,Sim,RJ
+168,2025-03-10 19:07:26,Calças,Calça social,Unissex,2,123.55,247.10,Cartão Débito,Não,RO
+169,2025-03-11 09:18:38,Camisas,Camisa polo,Masculino,1,73.80,73.80,Dinheiro,Não,AM
+170,2025-03-11 11:42:30,Acessórios,Bolsa,Feminino,1,42.10,42.10,Pix,Sim,AM
+171,2025-03-12 17:23:07,Vestidos,Vestido midi,Feminino,3,148.90,446.70,Cartão Crédito,Não,RJ
+172,2025-03-12 15:54:35,Calças,Calça jeans,Unissex,1,129.85,129.85,Cartão Débito,Não,TO
+173,2025-03-13 18:59:42,Camisas,Camiseta básica,Unissex,1,80.35,80.35,Dinheiro,Sim,GO
+174,2025-03-13 11:17:44,Acessórios,Bolsa,Feminino,2,44.30,88.60,Pix,Não,MT
+175,2025-03-13 09:11:55,Vestidos,Vestido estampado,Feminino,2,173.15,346.30,Cartão Crédito,Não,RO
+176,2025-03-14 10:09:47,Calças,Calça jeans,Unissex,1,138.95,138.95,Cartão Débito,Sim,AC
+177,2025-03-14 17:13:24,Camisas,Camisa polo,Masculino,1,86.75,86.75,Dinheiro,Não,MT
+178,2025-03-14 14:19:46,Acessórios,Cinto,Unissex,1,38.45,38.45,Pix,Não,RJ
+179,2025-03-15 09:09:10,Vestidos,Vestido casual,Feminino,1,152.80,152.80,Cartão Crédito,Não,AL
+180,2025-03-15 13:28:42,Calças,Calça social,Unissex,1,116.25,116.25,Cartão Débito,Sim,RN
+181,2025-03-16 15:17:13,Camisas,Camisa social,Unissex,2,68.15,136.30,Dinheiro,Não,AM
+182,2025-03-16 15:07:18,Acessórios,Carteira,Masculino,2,37.50,75.00,Pix,Não,RJ
+183,2025-03-17 17:42:19,Vestidos,Vestido casual,Feminino,4,165.45,661.80,Cartão Crédito,Sim,MG
+184,2025-03-17 09:13:19,Calças,Calça chino,Masculino,1,125.15,125.15,Cartão Débito,Não,SP
+185,2025-03-18 13:18:20,Camisas,Camiseta estampada,Unissex,1,74.95,74.95,Dinheiro,Não,PR
+186,2025-03-18 11:08:24,Acessórios,Bolsa,Feminino,1,40.55,40.55,Pix,Sim,ES
+187,2025-03-19 10:25:55,Vestidos,Vestido casual,Feminino,2,145.30,290.60,Cartão Crédito,Não,PA
+188,2025-03-19 16:58:04,Calças,Calça social,Unissex,1,131.90,131.90,Cartão Débito,Não,RJ
+189,2025-03-20 18:25:45,Camisas,Camiseta básica,Unissex,1,84.20,84.20,Dinheiro,Sim,MA
+190,2025-03-20 15:01:20,Acessórios,Carteira,Masculino,1,45.15,45.15,Pix,Não,RN
+191,2025-03-20 14:05:27,Vestidos,Vestido estampado,Feminino,1,161.25,161.25,Cartão Crédito,Não,ES
+192,2025-03-21 18:25:33,Calças,Calça de moletom,Unissex,1,141.65,141.65,Cartão Débito,Sim,MA
+193,2025-03-21 12:21:49,Camisas,Camiseta básica,Unissex,1,88.65,88.65,Dinheiro,Não,PE
+194,2025-03-21 17:32:12,Acessórios,Bolsa,Feminino,3,46.10,138.30,Pix,Não,MS
+195,2025-03-22 19:52:09,Vestidos,Vestido longo,Feminino,1,154.60,154.60,Cartão Crédito,Não,BA
+196,2025-03-22 12:11:38,Calças,Calça jeans,Unissex,2,114.55,229.10,Cartão Débito,Sim,SP
+197,2025-03-23 11:49:40,Camisas,Camiseta estampada,Unissex,1,67.60,67.60,Dinheiro,Não,SP
+198,2025-03-23 19:59:56,Acessórios,Bolsa,Feminino,1,36.80,36.80,Pix,Não,RS
+199,2025-03-24 19:20:09,Vestidos,Vestido estampado,Feminino,4,168.75,675.00,Cartão Crédito,Sim,PR
+200,2025-03-24 19:19:50,Calças,Calça de moletom,Unissex,2,127.30,254.60,Cartão Débito,Não,AL
+201,2025-03-25 17:04:19,Camisas,Camiseta básica,Unissex,3,72.40,217.20,Dinheiro,Não,AL
+202,2025-03-25 14:53:18,Acessórios,Carteira,Masculino,3,41.95,125.85,Pix,Sim,AP
+203,2025-03-26 16:37:35,Vestidos,Vestido casual,Feminino,2,143.20,286.40,Cartão Crédito,Não,SC
+204,2025-03-26 16:58:51,Calças,Calça de moletom,Unissex,1,120.95,120.95,Cartão Débito,Não,DF
+205,2025-03-27 18:30:32,Camisas,Camiseta estampada,Unissex,1,81.05,81.05,Dinheiro,Sim,AL
+206,2025-03-27 10:51:57,Acessórios,Cinto,Unissex,1,43.65,43.65,Pix,Não,RR
+207,2025-03-27 17:41:11,Vestidos,Vestido estampado,Feminino,1,170.30,170.30,Cartão Crédito,Não,RR
+208,2025-03-28 16:33:33,Calças,Calça de moletom,Unissex,1,137.80,137.80,Cartão Débito,Sim,MS
+209,2025-03-28 13:24:26,Camisas,Camiseta básica,Unissex,1,79.25,79.25,Dinheiro,Não,RO
+210,2025-03-28 19:41:21,Acessórios,Carteira,Masculino,4,39.75,159.00,Pix,Não,AM
+211,2025-03-29 13:16:46,Vestidos,Vestido midi,Feminino,1,156.10,156.10,Cartão Crédito,Não,RN
+212,2025-03-29 14:05:37,Calças,Calça de moletom,Unissex,2,119.15,238.30,Cartão Débito,Sim,MS
+213,2025-03-30 19:44:42,Camisas,Camiseta básica,Unissex,1,70.10,70.10,Dinheiro,Não,RN
+214,2025-03-30 13:35:24,Acessórios,Boné,Unissex,1,38.15,38.15,Pix,Não,MT
+215,2025-03-31 19:44:53,Vestidos,Vestido casual,Feminino,3,166.35,499.05,Cartão Crédito,Sim,RO
+216,2025-03-31 19:42:27,Calças,Calça de moletom,Unissex,4,124.25,497.00,Cartão Débito,Não,AC
+217,2025-04-01 13:11:13,Camisas,Camiseta estampada,Unissex,1,75.20,75.20,Dinheiro,Não,SP
+218,2025-04-01 12:14:08,Acessórios,Cinto,Unissex,2,40.30,80.60,Pix,Sim,MA
+219,2025-04-02 17:49:34,Vestidos,Vestido casual,Feminino,1,147.80,147.80,Cartão Crédito,Não,PE
+220,2025-04-02 19:21:56,Calças,Calça social,Unissex,1,130.55,130.55,Cartão Débito,Não,BA
+221,2025-04-03 11:10:11,Camisas,Camisa polo,Masculino,3,85.30,255.90,Dinheiro,Sim,SP
+222,2025-04-03 16:02:26,Acessórios,Boné,Unissex,1,44.75,44.75,Pix,Não,SC
+223,2025-04-03 16:39:18,Vestidos,Vestido estampado,Feminino,1,162.55,162.55,Cartão Crédito,Não,SE
+224,2025-04-04 12:34:15,Calças,Calça social,Unissex,2,139.25,278.50,Cartão Débito,Sim,SE
+225,2025-04-04 12:23:43,Camisas,Camiseta estampada,Unissex,1,87.85,87.85,Dinheiro,Não,PB
+226,2025-04-04 13:49:24,Acessórios,Boné,Unissex,1,46.50,46.50,Pix,Não,PA
+227,2025-04-05 12:51:38,Vestidos,Vestido casual,Feminino,1,151.25,151.25,Cartão Crédito,Não,GO
+228,2025-04-05 19:30:55,Calças,Calça jeans,Unissex,2,113.30,226.60,Cartão Débito,Sim,AM
+229,2025-04-06 13:05:48,Camisas,Camisa polo,Masculino,1,66.85,66.85,Dinheiro,Não,PB
+230,2025-04-06 15:05:58,Acessórios,Bolsa,Feminino,3,35.60,106.80,Pix,Não,PB
+231,2025-04-07 09:26:03,Vestidos,Vestido midi,Feminino,1,164.90,164.90,Cartão Crédito,Sim,MS
+232,2025-04-07 15:05:23,Calças,Calça jeans,Unissex,1,122.10,122.10,Cartão Débito,Não,MT
+233,2025-04-08 19:21:50,Camisas,Camisa social,Unissex,1,73.50,73.50,Dinheiro,Não,AL
+234,2025-04-08 16:44:53,Acessórios,Carteira,Masculino,2,42.75,85.50,Pix,Sim,RR
+235,2025-04-09 16:39:00,Vestidos,Vestido longo,Feminino,1,142.15,142.15,Cartão Crédito,Não,AC
+236,2025-04-09 12:53:09,Calças,Calça social,Unissex,1,128.40,128.40,Cartão Débito,Não,SC
+237,2025-04-10 10:49:18,Camisas,Camiseta básica,Unissex,3,82.55,247.65,Dinheiro,Sim,AM
+238,2025-04-10 12:26:40,Acessórios,Cinto,Unissex,1,43.30,43.30,Pix,Não,PB
+239,2025-04-10 10:53:57,Vestidos,Vestido casual,Feminino,1,172.85,172.85,Cartão Crédito,Não,PI
+240,2025-04-11 19:32:36,Calças,Calça de moletom,Unissex,1,134.75,134.75,Cartão Débito,Sim,BA
+241,2025-04-11 15:00:39,Camisas,Camiseta estampada,Unissex,1,84.65,84.65,Dinheiro,Não,RJ
+242,2025-04-11 11:42:42,Acessórios,Cinto,Unissex,1,39.00,39.00,Pix,Não,MS
+243,2025-04-12 17:34:32,Vestidos,Vestido casual,Feminino,1,159.60,159.60,Cartão Crédito,Não,PE
+244,2025-04-12 15:55:30,Calças,Calça de moletom,Unissex,3,121.45,364.35,Cartão Débito,Sim,MG
+245,2025-04-13 13:47:01,Camisas,Camisa social,Unissex,1,71.15,71.15,Dinheiro,Não,AP
+246,2025-04-13 12:46:42,Acessórios,Bolsa,Feminino,2,37.30,74.60,Pix,Não,SP
+247,2025-04-14 11:02:22,Vestidos,Vestido midi,Feminino,1,160.75,160.75,Cartão Crédito,Sim,TO
+248,2025-04-14 19:29:44,Calças,Calça chino,Masculino,1,129.65,129.65,Cartão Débito,Não,CE
+249,2025-04-15 10:45:49,Camisas,Camisa social,Unissex,2,76.45,152.90,Dinheiro,Não,AL
+250,2025-04-15 12:02:50,Acessórios,Bolsa,Feminino,1,41.00,41.00,Pix,Sim,AL
+251,2025-04-16 13:32:25,Vestidos,Vestido estampado,Feminino,1,146.85,146.85,Cartão Crédito,Não,PI
+252,2025-04-16 13:02:48,Calças,Calça de moletom,Unissex,2,126.35,252.70,Cartão Débito,Não,MA
+253,2025-04-17 09:55:41,Camisas,Camisa social,Unissex,1,83.95,83.95,Dinheiro,Sim,AM
+254,2025-04-17 15:56:25,Acessórios,Bolsa,Feminino,1,44.65,44.65,Pix,Não,MG
+255,2025-04-17 11:31:44,Vestidos,Vestido longo,Feminino,4,166.15,664.60,Cartão Crédito,Não,SE
+256,2025-04-18 10:46:27,Calças,Calça chino,Masculino,4,140.45,561.80,Cartão Débito,Sim,RN
+257,2025-04-18 17:18:20,Camisas,Camisa social,Unissex,1,88.05,88.05,Dinheiro,Não,MT
+258,2025-04-18 13:28:38,Acessórios,Carteira,Masculino,1,45.95,45.95,Pix,Não,CE
+259,2025-04-19 14:28:02,Vestidos,Vestido estampado,Feminino,1,153.95,153.95,Cartão Crédito,Não,MS
+260,2025-04-19 13:40:50,Calças,Calça social,Unissex,3,117.10,351.30,Cartão Débito,Sim,AP
+261,2025-04-20 14:32:51,Camisas,Camiseta básica,Unissex,2,69.30,138.60,Dinheiro,Não,CE
+262,2025-04-20 11:54:38,Acessórios,Cinto,Unissex,2,38.00,76.00,Pix,Não,PB
+263,2025-04-21 11:04:15,Vestidos,Vestido longo,Feminino,1,167.95,167.95,Cartão Crédito,Sim,MS
+264,2025-04-21 15:36:02,Calças,Calça social,Unissex,1,125.85,125.85,Cartão Débito,Não,RO
+265,2025-04-22 14:23:28,Camisas,Camisa polo,Masculino,2,74.15,148.30,Dinheiro,Não,RJ
+266,2025-04-22 17:23:25,Acessórios,Boné,Unissex,2,40.15,80.30,Pix,Sim,GO
+267,2025-04-23 10:01:47,Vestidos,Vestido estampado,Feminino,1,144.40,144.40,Cartão Crédito,Não,PE
+268,2025-04-23 17:07:16,Calças,Calça social,Unissex,4,123.25,493.00,Cartão Débito,Não,RR
+269,2025-04-24 12:39:18,Camisas,Camisa polo,Masculino,2,82.25,164.50,Dinheiro,Sim,PR
+270,2025-04-24 10:08:54,Acessórios,Carteira,Masculino,1,43.45,43.45,Pix,Não,CE
+271,2025-04-24 10:51:43,Vestidos,Vestido longo,Feminino,2,171.95,343.90,Cartão Crédito,Não,MT
+272,2025-04-25 10:35:34,Calças,Calça chino,Masculino,1,136.95,136.95,Cartão Débito,Sim,MA
+273,2025-04-25 19:11:50,Camisas,Camiseta básica,Unissex,2,80.10,160.20,Dinheiro,Não,ES
+274,2025-04-25 12:50:08,Acessórios,Cinto,Unissex,3,39.50,118.50,Pix,Não,PR
+275,2025-04-26 14:35:36,Vestidos,Vestido midi,Feminino,1,155.75,155.75,Cartão Crédito,Não,SE
+276,2025-04-26 18:56:05,Calças,Calça social,Unissex,1,118.70,118.70,Cartão Débito,Sim,MG
+277,2025-04-27 17:26:49,Camisas,Camiseta básica,Unissex,1,70.60,70.60,Dinheiro,Não,RJ
+278,2025-04-27 11:20:41,Acessórios,Bolsa,Feminino,1,37.75,37.75,Pix,Não,PB
+279,2025-04-28 11:56:53,Vestidos,Vestido midi,Feminino,1,165.90,165.90,Cartão Crédito,Sim,RS
+280,2025-04-28 11:27:32,Calças,Calça jeans,Unissex,1,124.55,124.55,Cartão Débito,Não,AL
+281,2025-04-29 17:09:19,Camisas,Camisa polo,Masculino,2,75.55,151.10,Dinheiro,Não,MT
+282,2025-04-29 14:33:57,Acessórios,Bolsa,Feminino,1,40.80,40.80,Pix,Sim,AP
+283,2025-04-30 12:40:35,Vestidos,Vestido longo,Feminino,1,148.25,148.25,Cartão Crédito,Não,RS
+284,2025-04-30 18:34:05,Calças,Calça chino,Masculino,1,131.55,131.55,Cartão Débito,Não,CE
+285,2025-05-01 11:42:39,Camisas,Camisa social,Unissex,1,84.45,84.45,Dinheiro,Sim,RN
+286,2025-05-01 18:02:52,Acessórios,Cinto,Unissex,3,45.00,135.00,Pix,Não,AP
+287,2025-05-01 19:49:36,Vestidos,Vestido estampado,Feminino,2,163.70,327.40,Cartão Crédito,Não,DF
+288,2025-05-02 18:40:01,Calças,Calça de moletom,Unissex,1,141.05,141.05,Cartão Débito,Sim,RS
+289,2025-05-02 19:19:30,Camisas,Camiseta estampada,Unissex,1,87.40,87.40,Dinheiro,Não,SE
+290,2025-05-02 13:29:04,Acessórios,Carteira,Masculino,1,46.25,46.25,Pix,Não,CE
+291,2025-05-03 15:30:29,Vestidos,Vestido midi,Feminino,1,152.45,152.45,Cartão Crédito,Não,RN
+292,2025-05-03 14:55:45,Calças,Calça social,Unissex,2,114.10,228.20,Cartão Débito,Sim,MS
+293,2025-05-04 11:48:23,Camisas,Camisa social,Unissex,1,67.95,67.95,Dinheiro,Não,AM
+294,2025-05-04 12:29:07,Acessórios,Boné,Unissex,1,36.55,36.55,Pix,Não,ES
+295,2025-05-05 10:03:18,Vestidos,Vestido estampado,Feminino,2,169.35,338.70,Cartão Crédito,Sim,RN
+296,2025-05-05 12:55:57,Calças,Calça de moletom,Unissex,1,128.20,128.20,Cartão Débito,Não,MT
+297,2025-05-06 12:48:10,Camisas,Camiseta estampada,Unissex,1,73.15,73.15,Dinheiro,Não,PE
+298,2025-05-06 16:56:19,Acessórios,Carteira,Masculino,1,42.50,42.50,Pix,Sim,AP
+299,2025-05-07 17:29:15,Vestidos,Vestido casual,Feminino,1,143.55,143.55,Cartão Crédito,Não,MS
+300,2025-05-07 09:18:31,Calças,Calça social,Unissex,2,121.25,242.50,Cartão Débito,Não,TO
+301,2025-05-08 13:34:00,Camisas,Camisa polo,Masculino,3,81.65,244.95,Dinheiro,Sim,PA
+302,2025-05-08 13:46:23,Acessórios,Cinto,Unissex,1,44.20,44.20,Pix,Não,MS
+303,2025-05-08 15:03:36,Vestidos,Vestido longo,Feminino,2,171.10,342.20,Cartão Crédito,Não,MS
+304,2025-05-09 10:24:32,Calças,Calça de moletom,Unissex,1,138.35,138.35,Cartão Débito,Sim,PI
+305,2025-05-09 18:43:39,Camisas,Camiseta estampada,Unissex,1,79.90,79.90,Dinheiro,Não,AM
+306,2025-05-09 14:50:21,Acessórios,Boné,Unissex,1,39.35,39.35,Pix,Não,MS
+307,2025-05-10 12:38:32,Vestidos,Vestido casual,Feminino,1,157.65,157.65,Cartão Crédito,Não,AL
+308,2025-05-10 09:08:45,Calças,Calça social,Unissex,3,119.80,359.40,Cartão Débito,Sim,PR
+309,2025-05-11 11:38:57,Camisas,Camisa social,Unissex,2,70.35,140.70,Dinheiro,Não,MT
+310,2025-05-12 11:25:39,Acessórios,Bolsa,Feminino,2,35.88,71.76,Pix,Não,MA
+311,2025-05-12 17:53:32,Camisas,Camisa social,Unissex,3,71.91,215.73,Dinheiro,Não,RR
+312,2025-05-12 16:52:01,Calças,Calça jeans,Unissex,1,136.29,136.29,Cartão Débito,Sim,RO
+313,2025-05-12 15:37:19,Calças,Calça jeans,Unissex,1,115.66,115.66,Cartão Débito,Não,SC
+314,2025-05-12 18:30:16,Camisas,Camisa polo,Masculino,1,66.68,66.68,Dinheiro,Não,SE
+315,2025-05-13 09:37:30,Camisas,Camiseta estampada,Unissex,2,71.27,142.54,Cartão Débito,Não,RS
+316,2025-05-13 11:52:43,Vestidos,Vestido casual,Feminino,2,163.52,327.04,Cartão Crédito,Não,RJ
+317,2025-05-13 12:01:28,Calças,Calça social,Unissex,1,119.22,119.22,Cartão Débito,Sim,BA
+318,2025-05-13 12:26:32,Calças,Calça jeans,Unissex,1,126.22,126.22,Cartão Débito,Não,PR
+319,2025-05-13 11:33:13,Acessórios,Carteira,Masculino,1,42.23,42.23,Pix,Não,RO
+320,2025-05-14 17:24:20,Acessórios,Bolsa,Feminino,3,44.14,132.42,Dinheiro,Não,PB
+321,2025-05-14 17:22:43,Acessórios,Bolsa,Feminino,2,43.45,86.90,Pix,Não,SC
+322,2025-05-14 18:30:12,Vestidos,Vestido longo,Feminino,3,150.02,450.06,Cartão Crédito,Não,GO
+323,2025-05-14 12:19:49,Vestidos,Vestido estampado,Feminino,2,178.32,356.64,Cartão Crédito,Sim,DF
+324,2025-05-14 14:30:22,Camisas,Camisa social,Unissex,2,68.41,136.82,Dinheiro,Sim,SE
+325,2025-05-15 13:07:36,Vestidos,Vestido estampado,Feminino,1,142.48,142.48,Cartão Crédito,Não,MG
+326,2025-05-15 14:49:51,Camisas,Camisa social,Unissex,2,80.72,161.44,Dinheiro,Não,AL
+327,2025-05-15 10:22:59,Camisas,Camiseta estampada,Unissex,1,83.81,83.81,Cartão Crédito,Sim,GO
+328,2025-05-15 12:12:52,Vestidos,Vestido longo,Feminino,3,143.65,430.95,Cartão Crédito,Não,PI
+329,2025-05-15 11:06:39,Acessórios,Boné,Unissex,2,36.49,72.98,Pix,Não,ES
+330,2025-05-16 09:42:57,Vestidos,Vestido midi,Feminino,2,172.99,345.98,Cartão Crédito,Sim,RS
+331,2025-05-16 09:06:26,Acessórios,Cinto,Unissex,2,42.10,84.20,Pix,Sim,PR
+332,2025-05-16 19:49:08,Acessórios,Boné,Unissex,1,36.12,36.12,Cartão Débito,Não,PI
+333,2025-05-16 15:41:59,Camisas,Camiseta estampada,Unissex,2,84.88,169.76,Dinheiro,Sim,PR
+334,2025-05-16 19:12:48,Vestidos,Vestido longo,Feminino,1,174.07,174.07,Dinheiro,Sim,MT
+335,2025-05-17 19:03:58,Calças,Calça chino,Masculino,2,124.97,249.94,Cartão Débito,Não,RS
+336,2025-05-17 17:47:46,Camisas,Camisa polo,Masculino,2,81.51,163.02,Dinheiro,Não,AL
+337,2025-05-17 15:56:53,Vestidos,Vestido estampado,Feminino,1,145.22,145.22,Cartão Crédito,Não,AL
+338,2025-05-17 16:11:59,Acessórios,Cinto,Unissex,2,37.96,75.92,Pix,Não,MA
+339,2025-05-17 09:19:36,Camisas,Camisa social,Unissex,1,83.13,83.13,Dinheiro,Não,MT
+340,2025-05-18 16:41:34,Vestidos,Vestido estampado,Feminino,1,163.82,163.82,Dinheiro,Não,BA
+341,2025-05-18 13:12:51,Calças,Calça social,Unissex,2,129.86,259.72,Cartão Débito,Não,CE
+342,2025-05-18 19:16:45,Acessórios,Bolsa,Feminino,1,37.44,37.44,Pix,Não,SC
+343,2025-05-18 13:36:43,Vestidos,Vestido estampado,Feminino,1,149.69,149.69,Cartão Crédito,Não,CE
+344,2025-05-18 15:32:20,Acessórios,Cinto,Unissex,1,38.07,38.07,Pix,Não,RO
+345,2025-05-19 11:08:30,Vestidos,Vestido casual,Feminino,1,173.55,173.55,Cartão Crédito,Sim,ES
+346,2025-05-19 13:24:15,Vestidos,Vestido longo,Feminino,2,147.99,295.98,Dinheiro,Não,GO
+347,2025-05-19 13:37:46,Camisas,Camisa social,Unissex,3,85.66,256.98,Dinheiro,Sim,GO
+348,2025-05-19 12:03:42,Acessórios,Boné,Unissex,1,38.61,38.61,Pix,Não,MA
+349,2025-05-19 15:43:32,Camisas,Camisa social,Unissex,1,88.32,88.32,Dinheiro,Não,RR
+350,2025-05-20 10:40:58,Vestidos,Vestido midi,Feminino,1,174.95,174.95,Cartão Crédito,Não,MS
+351,2025-05-20 12:08:30,Acessórios,Bolsa,Feminino,4,37.99,151.96,Pix,Não,SC
+352,2025-05-20 15:44:35,Calças,Calça chino,Masculino,1,125.47,125.47,Cartão Débito,Sim,SP
+353,2025-05-20 12:43:48,Vestidos,Vestido casual,Feminino,3,144.40,433.20,Cartão Crédito,Não,SE
+354,2025-05-20 17:28:33,Calças,Calça jeans,Unissex,1,120.73,120.73,Cartão Débito,Sim,AP
+355,2025-05-21 09:53:35,Calças,Calça chino,Masculino,3,130.02,390.06,Cartão Débito,Sim,DF
+356,2025-05-21 11:20:54,Calças,Calça chino,Masculino,1,126.51,126.51,Cartão Débito,Não,AM
+357,2025-05-21 18:31:05,Vestidos,Vestido casual,Feminino,3,155.09,465.27,Cartão Crédito,Não,PB
+358,2025-05-21 16:08:32,Camisas,Camiseta básica,Unissex,1,90.38,90.38,Dinheiro,Não,RJ
+359,2025-05-21 17:29:43,Vestidos,Vestido casual,Feminino,1,159.67,159.67,Cartão Crédito,Não,SC
+360,2025-05-22 15:16:52,Calças,Calça jeans,Unissex,1,136.90,136.90,Cartão Crédito,Sim,DF
+361,2025-05-22 09:27:22,Camisas,Camiseta básica,Unissex,2,69.65,139.30,Dinheiro,Não,PI
+362,2025-05-22 10:59:30,Acessórios,Boné,Unissex,1,44.51,44.51,Pix,Não,PA
+363,2025-05-22 11:49:41,Camisas,Camiseta estampada,Unissex,1,80.54,80.54,Dinheiro,Não,RS
+364,2025-05-22 14:57:24,Acessórios,Carteira,Masculino,1,39.89,39.89,Pix,Não,MG
+365,2025-05-23 10:43:42,Calças,Calça de moletom,Unissex,1,129.70,129.70,Cartão Débito,Sim,BA
+366,2025-05-23 10:11:34,Calças,Calça chino,Masculino,1,140.24,140.24,Cartão Débito,Não,BA
+367,2025-05-23 09:48:01,Vestidos,Vestido estampado,Feminino,1,166.78,166.78,Pix,Não,PB
+368,2025-05-23 17:24:52,Vestidos,Vestido longo,Feminino,2,166.84,333.68,Cartão Crédito,Não,PB
+369,2025-05-23 11:17:12,Vestidos,Vestido casual,Feminino,1,169.72,169.72,Cartão Crédito,Não,SC
+370,2025-05-24 09:51:42,Vestidos,Vestido casual,Feminino,3,143.10,429.30,Cartão Crédito,Não,SP
+371,2025-05-24 12:13:04,Vestidos,Vestido estampado,Feminino,1,145.04,145.04,Cartão Crédito,Não,AL
+372,2025-05-24 18:43:45,Calças,Calça jeans,Unissex,2,143.19,286.38,Cartão Crédito,Sim,ES
+373,2025-05-24 15:28:14,Vestidos,Vestido casual,Feminino,2,178.93,357.86,Cartão Crédito,Não,SP
+374,2025-05-24 11:32:18,Calças,Calça de moletom,Unissex,2,129.02,258.04,Cartão Débito,Sim,SC
+375,2025-05-25 18:38:49,Camisas,Camisa polo,Masculino,1,87.27,87.27,Cartão Crédito,Não,MT
+376,2025-05-25 13:56:09,Camisas,Camisa polo,Masculino,1,86.56,86.56,Dinheiro,Não,PE
+377,2025-05-25 15:19:17,Calças,Calça chino,Masculino,2,132.24,264.48,Cartão Débito,Sim,RJ
+378,2025-05-25 19:43:27,Vestidos,Vestido longo,Feminino,1,154.02,154.02,Cartão Crédito,Não,AL
+379,2025-05-25 19:42:24,Vestidos,Vestido estampado,Feminino,1,160.92,160.92,Cartão Crédito,Sim,MT
+380,2025-05-26 15:09:19,Calças,Calça social,Unissex,2,142.07,284.14,Cartão Débito,Sim,SP
+381,2025-05-26 12:54:14,Vestidos,Vestido midi,Feminino,2,151.95,303.90,Cartão Crédito,Não,RR
+382,2025-05-26 16:58:03,Camisas,Camisa polo,Masculino,1,68.65,68.65,Pix,Não,PA
+383,2025-05-26 15:15:16,Acessórios,Cinto,Unissex,1,45.49,45.49,Pix,Sim,RS
+384,2025-05-26 16:54:23,Acessórios,Boné,Unissex,1,38.29,38.29,Pix,Não,SC
+385,2025-05-27 09:17:24,Calças,Calça jeans,Unissex,1,140.79,140.79,Cartão Débito,Sim,RN
+386,2025-05-27 10:12:51,Vestidos,Vestido midi,Feminino,1,142.02,142.02,Dinheiro,Sim,SC
+387,2025-05-27 16:13:55,Camisas,Camiseta básica,Unissex,1,85.93,85.93,Dinheiro,Não,MA
+388,2025-05-27 12:59:12,Camisas,Camiseta estampada,Unissex,1,84.70,84.70,Dinheiro,Não,AM
+389,2025-05-27 12:44:38,Acessórios,Boné,Unissex,3,43.02,129.06,Pix,Sim,MG
+390,2025-05-28 17:20:49,Acessórios,Bolsa,Feminino,2,37.46,74.92,Pix,Sim,PB
+391,2025-05-28 13:16:23,Vestidos,Vestido estampado,Feminino,3,174.79,524.37,Cartão Crédito,Não,PR
+392,2025-05-28 10:51:46,Camisas,Camisa social,Unissex,1,89.58,89.58,Dinheiro,Não,TO
+393,2025-05-28 12:23:20,Camisas,Camisa polo,Masculino,1,84.44,84.44,Dinheiro,Não,RJ
+394,2025-05-28 11:01:16,Vestidos,Vestido estampado,Feminino,1,168.14,168.14,Cartão Crédito,Não,RJ
+395,2025-05-29 13:09:12,Camisas,Camisa polo,Masculino,1,90.33,90.33,Dinheiro,Sim,MG
+396,2025-05-29 16:35:41,Calças,Calça de moletom,Unissex,1,126.81,126.81,Cartão Débito,Sim,MT
+397,2025-05-29 16:46:41,Camisas,Camisa polo,Masculino,1,76.98,76.98,Dinheiro,Não,PB
+398,2025-05-29 14:10:08,Vestidos,Vestido midi,Feminino,1,147.81,147.81,Cartão Crédito,Sim,PR
+399,2025-05-29 17:41:03,Acessórios,Cinto,Unissex,2,35.84,71.68,Pix,Não,TO
+400,2025-05-30 19:03:48,Calças,Calça chino,Masculino,1,120.21,120.21,Cartão Débito,Não,BA
+401,2025-05-30 10:45:09,Camisas,Camiseta estampada,Unissex,1,66.08,66.08,Dinheiro,Não,PE
+402,2025-05-30 14:03:39,Camisas,Camiseta estampada,Unissex,1,71.52,71.52,Cartão Crédito,Não,RN
+403,2025-05-30 19:31:01,Camisas,Camiseta estampada,Unissex,1,87.00,87.00,Dinheiro,Sim,PI
+404,2025-05-30 09:01:33,Vestidos,Vestido longo,Feminino,3,159.86,479.58,Dinheiro,Não,PI
+405,2025-05-31 09:32:52,Vestidos,Vestido midi,Feminino,2,166.31,332.62,Cartão Crédito,Sim,PA
+406,2025-05-31 10:58:06,Acessórios,Boné,Unissex,1,41.67,41.67,Pix,Não,ES
+407,2025-05-31 18:33:16,Camisas,Camiseta estampada,Unissex,1,80.05,80.05,Dinheiro,Não,GO
+408,2025-05-31 10:23:25,Camisas,Camisa polo,Masculino,1,85.16,85.16,Dinheiro,Não,ES
+409,2025-05-31 13:43:52,Camisas,Camiseta básica,Unissex,1,70.57,70.57,Dinheiro,Não,RS
+410,2025-06-01 10:25:24,Vestidos,Vestido casual,Feminino,1,165.90,165.90,Pix,Sim,PR
+411,2025-06-01 19:00:44,Acessórios,Carteira,Masculino,2,40.37,80.74,Pix,Não,PR
+412,2025-06-01 19:50:21,Calças,Calça jeans,Unissex,2,140.34,280.68,Cartão Débito,Sim,AM
+413,2025-06-01 12:13:57,Camisas,Camiseta estampada,Unissex,2,82.43,164.86,Cartão Débito,Não,RJ
+414,2025-06-01 13:02:59,Camisas,Camiseta básica,Unissex,1,67.39,67.39,Cartão Crédito,Não,GO
+415,2025-06-02 11:59:54,Acessórios,Boné,Unissex,1,44.61,44.61,Pix,Não,DF
+416,2025-06-02 15:59:04,Calças,Calça chino,Masculino,1,120.80,120.80,Cartão Débito,Sim,RJ
+417,2025-06-02 18:53:54,Acessórios,Bolsa,Feminino,1,41.63,41.63,Pix,Sim,PI
+418,2025-06-02 15:48:47,Calças,Calça jeans,Unissex,1,126.30,126.30,Cartão Débito,Sim,RR
+419,2025-06-02 17:47:22,Vestidos,Vestido midi,Feminino,2,157.72,315.44,Cartão Crédito,Sim,PA
+420,2025-06-03 10:21:38,Camisas,Camiseta estampada,Unissex,1,76.78,76.78,Cartão Crédito,Não,RN
+421,2025-06-03 14:01:40,Acessórios,Carteira,Masculino,1,36.70,36.70,Pix,Sim,PB
+422,2025-06-03 12:22:35,Camisas,Camisa polo,Masculino,1,86.42,86.42,Dinheiro,Não,PA
+423,2025-06-03 19:37:42,Camisas,Camisa social,Unissex,1,88.64,88.64,Cartão Débito,Não,SP
+424,2025-06-03 12:45:04,Acessórios,Carteira,Masculino,2,37.47,74.94,Pix,Não,BA
+425,2025-06-04 19:09:47,Camisas,Camiseta básica,Unissex,1,77.72,77.72,Dinheiro,Não,MS
+426,2025-06-04 10:00:19,Acessórios,Bolsa,Feminino,1,45.75,45.75,Pix,Não,SP
+427,2025-06-04 10:08:05,Camisas,Camiseta estampada,Unissex,2,75.20,150.40,Dinheiro,Não,PB
+428,2025-06-04 10:01:05,Calças,Calça de moletom,Unissex,1,121.32,121.32,Cartão Débito,Não,AP
+429,2025-06-04 15:00:18,Camisas,Camiseta básica,Unissex,2,72.90,145.80,Dinheiro,Não,SP
+430,2025-06-05 17:57:15,Camisas,Camiseta estampada,Unissex,2,82.15,164.30,Dinheiro,Sim,CE
+431,2025-06-05 11:08:17,Acessórios,Boné,Unissex,1,37.34,37.34,Pix,Sim,PR
+432,2025-06-05 10:10:27,Calças,Calça social,Unissex,1,119.81,119.81,Cartão Débito,Não,MA
+433,2025-06-05 10:23:16,Calças,Calça social,Unissex,1,131.29,131.29,Pix,Sim,SC
+434,2025-06-05 18:39:12,Acessórios,Bolsa,Feminino,3,36.29,108.87,Pix,Não,BA
+435,2025-06-06 09:25:21,Camisas,Camisa social,Unissex,1,67.30,67.30,Dinheiro,Não,MG
+436,2025-06-06 16:21:27,Calças,Calça chino,Masculino,1,128.04,128.04,Cartão Débito,Não,RS
+437,2025-06-06 13:20:38,Calças,Calça social,Unissex,1,117.90,117.90,Cartão Débito,Sim,DF
+438,2025-06-06 14:11:25,Camisas,Camiseta estampada,Unissex,2,67.87,135.74,Dinheiro,Não,MA
+439,2025-06-06 18:50:15,Calças,Calça social,Unissex,1,115.08,115.08,Cartão Débito,Não,GO
+440,2025-06-07 14:07:59,Camisas,Camisa polo,Masculino,2,82.48,164.96,Cartão Crédito,Sim,RJ
+441,2025-06-07 19:49:35,Camisas,Camiseta estampada,Unissex,2,75.81,151.62,Dinheiro,Não,SC
+442,2025-06-07 12:28:51,Calças,Calça jeans,Unissex,4,120.72,482.88,Cartão Débito,Sim,RR
+443,2025-06-07 15:43:31,Camisas,Camisa polo,Masculino,1,66.88,66.88,Dinheiro,Não,MA
+444,2025-06-07 13:42:09,Camisas,Camiseta estampada,Unissex,3,76.19,228.57,Pix,Não,SE
+445,2025-06-08 10:28:38,Vestidos,Vestido estampado,Feminino,3,161.99,485.97,Cartão Crédito,Não,MG
+446,2025-06-08 17:02:50,Acessórios,Cinto,Unissex,1,46.12,46.12,Pix,Não,RR
+447,2025-06-08 10:49:15,Camisas,Camisa polo,Masculino,2,82.34,164.68,Dinheiro,Não,MS
+448,2025-06-08 19:39:02,Camisas,Camiseta estampada,Unissex,1,71.76,71.76,Dinheiro,Não,RS
+449,2025-06-08 14:50:27,Vestidos,Vestido longo,Feminino,2,143.90,287.80,Cartão Crédito,Não,AM
+450,2025-06-09 12:32:47,Acessórios,Boné,Unissex,1,40.74,40.74,Pix,Sim,RJ
+451,2025-06-09 16:23:25,Calças,Calça chino,Masculino,3,113.20,339.60,Pix,Sim,RO
+452,2025-06-09 14:01:30,Camisas,Camiseta básica,Unissex,2,90.35,180.70,Dinheiro,Não,PA
+453,2025-06-09 10:53:46,Calças,Calça de moletom,Unissex,1,129.98,129.98,Pix,Sim,MA
+454,2025-06-09 16:50:13,Calças,Calça social,Unissex,1,121.32,121.32,Cartão Débito,Sim,MS
+455,2025-06-10 10:28:46,Vestidos,Vestido casual,Feminino,1,175.14,175.14,Cartão Crédito,Não,MT
+456,2025-06-10 13:02:51,Acessórios,Bolsa,Feminino,1,39.76,39.76,Pix,Não,AC
+457,2025-06-10 19:06:43,Camisas,Camisa polo,Masculino,2,76.66,153.32,Dinheiro,Não,SC
+458,2025-06-10 17:11:35,Vestidos,Vestido estampado,Feminino,1,167.75,167.75,Cartão Crédito,Sim,PI
+459,2025-06-10 16:14:51,Vestidos,Vestido midi,Feminino,1,138.78,138.78,Cartão Crédito,Não,CE
+460,2025-06-11 19:42:27,Calças,Calça chino,Masculino,1,122.41,122.41,Cartão Débito,Não,SC
+461,2025-06-11 16:37:27,Vestidos,Vestido midi,Feminino,1,177.56,177.56,Pix,Não,RR
+462,2025-06-11 12:17:48,Camisas,Camiseta básica,Unissex,1,72.39,72.39,Dinheiro,Sim,SE
+463,2025-06-11 18:06:51,Camisas,Camisa social,Unissex,1,84.13,84.13,Cartão Crédito,Não,CE
+464,2025-06-11 14:12:29,Calças,Calça social,Unissex,1,121.55,121.55,Cartão Débito,Sim,RO
+465,2025-06-12 17:40:20,Calças,Calça social,Unissex,1,135.69,135.69,Cartão Débito,Sim,RN
+466,2025-06-12 18:07:22,Camisas,Camisa polo,Masculino,1,82.78,82.78,Dinheiro,Não,PB
+467,2025-06-12 19:45:51,Calças,Calça jeans,Unissex,1,128.95,128.95,Cartão Débito,Sim,RN
+468,2025-06-12 19:08:20,Camisas,Camiseta básica,Unissex,2,88.13,176.26,Dinheiro,Não,MA
+469,2025-06-12 11:23:44,Acessórios,Carteira,Masculino,2,36.64,73.28,Cartão Crédito,Sim,MG
+470,2025-06-13 18:08:36,Camisas,Camiseta estampada,Unissex,1,86.26,86.26,Dinheiro,Não,CE
+471,2025-06-13 19:34:44,Camisas,Camisa polo,Masculino,1,65.99,65.99,Cartão Crédito,Sim,CE
+472,2025-06-13 16:18:08,Vestidos,Vestido estampado,Feminino,1,164.99,164.99,Cartão Crédito,Não,TO
+473,2025-06-13 18:03:55,Vestidos,Vestido estampado,Feminino,1,145.18,145.18,Cartão Crédito,Não,AC
+474,2025-06-13 11:12:52,Vestidos,Vestido estampado,Feminino,1,161.43,161.43,Cartão Crédito,Não,PI
+475,2025-06-14 15:43:31,Vestidos,Vestido estampado,Feminino,1,161.81,161.81,Cartão Crédito,Não,TO
+476,2025-06-14 16:10:05,Acessórios,Boné,Unissex,3,36.45,109.35,Pix,Não,SE
+477,2025-06-14 13:02:17,Camisas,Camisa polo,Masculino,1,79.29,79.29,Dinheiro,Não,MA
+478,2025-06-14 16:36:47,Acessórios,Cinto,Unissex,2,42.15,84.30,Pix,Não,PR
+479,2025-06-14 18:07:17,Calças,Calça de moletom,Unissex,2,126.55,253.10,Cartão Débito,Não,TO
+480,2025-06-15 17:52:48,Acessórios,Carteira,Masculino,2,39.07,78.14,Pix,Não,SC
+481,2025-06-15 17:13:27,Calças,Calça chino,Masculino,1,141.45,141.45,Dinheiro,Não,TO
+482,2025-06-15 13:55:02,Calças,Calça jeans,Unissex,1,134.56,134.56,Cartão Débito,Sim,MS
+483,2025-06-15 16:55:07,Acessórios,Boné,Unissex,1,39.58,39.58,Dinheiro,Sim,ES
+484,2025-06-15 18:44:22,Vestidos,Vestido estampado,Feminino,2,175.27,350.54,Cartão Crédito,Não,RN
+485,2025-06-16 11:39:08,Camisas,Camisa polo,Masculino,2,89.81,179.62,Dinheiro,Não,TO
+486,2025-06-16 09:36:22,Calças,Calça chino,Masculino,3,142.30,426.90,Cartão Débito,Sim,RN
+487,2025-06-16 14:45:18,Acessórios,Cinto,Unissex,1,45.33,45.33,Pix,Não,GO
+488,2025-06-16 11:48:50,Vestidos,Vestido longo,Feminino,2,175.16,350.32,Cartão Crédito,Não,AL
+489,2025-06-16 19:08:44,Acessórios,Boné,Unissex,1,37.62,37.62,Dinheiro,Não,ES
+490,2025-06-17 14:53:15,Vestidos,Vestido estampado,Feminino,1,171.04,171.04,Cartão Crédito,Não,RO
+491,2025-06-17 16:09:36,Vestidos,Vestido estampado,Feminino,1,171.86,171.86,Cartão Crédito,Não,RS
+492,2025-06-17 15:28:04,Calças,Calça jeans,Unissex,1,121.37,121.37,Cartão Débito,Não,SP
+493,2025-06-17 15:32:47,Calças,Calça social,Unissex,1,125.05,125.05,Cartão Débito,Sim,MS
+494,2025-06-17 16:20:37,Camisas,Camiseta básica,Unissex,1,86.98,86.98,Cartão Débito,Sim,SP
+495,2025-06-18 16:40:42,Acessórios,Carteira,Masculino,1,37.85,37.85,Pix,Sim,AP
+496,2025-06-18 12:27:52,Calças,Calça de moletom,Unissex,2,124.01,248.02,Cartão Débito,Não,GO
+497,2025-06-18 13:21:35,Camisas,Camiseta estampada,Unissex,1,71.37,71.37,Dinheiro,Sim,RJ
+498,2025-06-18 14:57:43,Vestidos,Vestido casual,Feminino,1,155.05,155.05,Cartão Crédito,Não,AL
+499,2025-06-18 19:50:53,Vestidos,Vestido midi,Feminino,1,174.45,174.45,Cartão Crédito,Sim,AM
+500,2025-06-19 16:29:00,Vestidos,Vestido midi,Feminino,1,153.08,153.08,Cartão Crédito,Sim,PA
+501,2025-06-19 11:56:41,Camisas,Camiseta básica,Unissex,1,75.71,75.71,Dinheiro,Não,GO
+502,2025-06-19 19:23:16,Vestidos,Vestido midi,Feminino,1,152.24,152.24,Cartão Crédito,Não,RO
+503,2025-06-19 09:25:40,Vestidos,Vestido midi,Feminino,1,143.25,143.25,Cartão Crédito,Não,RR
+504,2025-06-19 15:41:05,Acessórios,Boné,Unissex,1,37.61,37.61,Pix,Não,AC
+505,2025-06-20 16:04:08,Calças,Calça social,Unissex,1,114.12,114.12,Cartão Débito,Sim,PE
+506,2025-06-20 09:00:44,Acessórios,Carteira,Masculino,1,40.49,40.49,Pix,Não,AM
+507,2025-06-20 11:30:04,Camisas,Camiseta básica,Unissex,1,76.61,76.61,Dinheiro,Não,AP
+508,2025-06-20 10:20:23,Acessórios,Carteira,Masculino,1,36.90,36.90,Pix,Não,BA
+509,2025-06-20 11:41:43,Calças,Calça jeans,Unissex,1,118.94,118.94,Cartão Débito,Não,PE
