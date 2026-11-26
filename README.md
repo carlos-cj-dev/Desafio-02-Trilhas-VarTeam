@@ -1,6 +1,6 @@
 # Desafio 02 — Análise exploratória da loja de roupas
 
-[Abrir no Google Colab](https://colab.research.google.com/github/carlos-cj-dev/Desafio-02-Trilhas-VarTeam/blob/main/tratamento_limpeza.ipynb)
+[Abrir no Google Colab](https://colab.research.google.com/github/carlos-cj-dev/Desafio-02-Trilhas-VarTeam/blob/main/desafio_loja_roupas.ipynb)
 
 
 Análise exploratória de dados de vendas de uma loja de roupas, desenvolvida como parte do Desafio 02.
