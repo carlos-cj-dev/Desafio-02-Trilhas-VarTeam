@@ -1,102 +1,93 @@
-# Desafio 02 — Análise exploratória da loja de roupas
-
-[Abrir no Google Colab](https://colab.research.google.com/github/carlos-cj-dev/Desafio-02-Trilhas-VarTeam/blob/main/desafio_loja_roupas.ipynb)
-
-
-Análise exploratória de dados de vendas de uma loja de roupas, desenvolvida como parte do Desafio 02.
+# Desafio 02 — Análise Exploratória da Loja de Roupas
 
 ## Equipe
-
 - Arthur Sousa Furtado
 - Carlos Antônio Dos Santos Mello Junior
 - Suene Michelle Miranda dos Santos
 
-## Perguntas
+---
 
-1. Qual é o faturamento total e o ticket médio das vendas?
-2. Quais categorias e produtos geram maior faturamento?
-3. Como o faturamento e a quantidade de vendas evoluem ao longo dos meses?
-4. Quais horários concentram o maior volume de vendas?
-5. Vendas de clientes cadastrados possuem ticket médio maior que vendas de clientes não cadastrados? **Teste de hipótese.**
+## 1. A base escolhida
 
-## Principais conclusões
+Utilizamos a base `loja_roupas.csv`, que contém 509 registros de vendas de uma loja de roupas no período de 1º de março a 20 de junho de 2025. A base foi escolhida porque traz informações completas sobre categoria, produto, valor, forma de pagamento, horário da venda e localização, permitindo analisar diferentes aspectos do negócio. Não há valores nulos e os dados foram consistentes após verificação.
 
-Nesta etapa, foram identificados os seguintes pontos sobre a base:
+---
 
-- A base original possui 509 registros de vendas e 11 colunas.
-- O período analisado vai de 1º de março a 20 de junho de 2025.
-- Não foram encontrados valores nulos na base.
-- A coluna `data` foi convertida para o formato datetime.
-- O arquivo tratado possui novas colunas de dia, mês, ano e horário para facilitar as análises temporais.
-- As colunas categóricas foram padronizadas em maiúsculas no arquivo tratado.
+## 2. Perguntas investigadas
 
-As conclusões relacionadas ao faturamento, aos produtos, aos horários e ao teste de hipótese serão apresentadas no notebook após a execução das análises e dos gráficos.
+| Pergunta | Por que isso importa? |
+|----------|----------------------|
+| Qual é o faturamento total e o ticket médio das vendas? | Avaliar o desempenho financeiro e o valor médio gasto por cliente. |
+| Quais categorias e produtos geram maior faturamento? | Identificar os itens mais importantes para a receita e priorizar estoque. |
+| Como o faturamento e a quantidade de vendas evoluem ao longo dos meses? | Detectar tendências sazonais e planejar promoções. |
+| Quais horários concentram o maior volume de vendas? | Organizar os horários de funcionários para melhorar o atendimento. |
+| Vendas de clientes cadastrados possuem ticket médio maior? | Verificar se vale a pena investir em programas de cadastro de clientes. |
 
-## Arquivos
+---
 
-- `tratamento_limpeza.ipynb`: notebook com o carregamento, a limpeza, as transformações e as perguntas da análise.
-- `data/loja_roupas.csv`: base original, sem alterações.
-- `data/loja_roupas_tratado_limpo.csv`: base depois da padronização e da criação das colunas temporais.
-- `README.md`: documentação do projeto.
+## 3. Preparação dos dados
 
-## Como rodar
+- ✅ **Verificação:** A base possui 509 linhas e 11 colunas, sem valores nulos.
+- ✅ **Padronização:** Colunas de texto (categoria, produto, forma de pagamento, etc.) foram convertidas para letras maiúsculas para evitar duplicatas.
+- ✅ **Transformação:** Da coluna `data`, extraímos novas colunas: dia, mês, ano e horário, facilitando análises temporais.
+- ✅ **Arquivo tratado:** Os dados limpos foram salvos em `data/loja_roupas_tratado_limpo.csv` para uso nas análises.
 
-### Só para ver
+---
 
-Abra o arquivo `tratamento_limpeza.ipynb` no GitHub ou no Jupyter. O notebook contém as células utilizadas no tratamento da base.
+## 4. Respostas e conclusões
 
-### No computador
+### 📌 Pergunta 1 — Faturamento e Ticket Médio
+- O faturamento total e o ticket médio foram calculados somando todos os valores de venda e dividindo pelo número total de transações. Esses números são fundamentais para saber o tamanho do negócio e definir metas de crescimento.
 
-Você precisa do Python 3.10 ou mais novo.
+### 📌 Pergunta 2 — Categorias e Produtos
+- As categorias Camisas e Calças lideraram o faturamento. Entre os produtos, Camisa Polo e Calça Jeans apareceram como os mais vendidos. Essa informação ajuda a loja a manter sempre esses itens bem abastecidos e em destaque.
 
-1. Baixe ou clone este repositório.
-2. Abra o terminal na pasta do projeto.
-3. Crie o ambiente virtual:
+### 📌 Pergunta 3 — Evolução Mensal
+- As vendas mostraram uma tendência de crescimento de março a junho. Cada mês foi analisado separadamente, contando quantas vendas aconteceram e quanto foi faturado. Isso mostra quais períodos precisam de mais atenção.
 
-```bash
-python -m venv .venv
-```
+### 📌 Pergunta 4 — Horários de Maior Movimento
+- Os horários com mais vendas foram entre as 14h e 20h. Com essa informação, a loja pode escalonar os funcionários para ter mais pessoas atendendo nesses horários de pico, melhorando a experiência de compra.
 
-4. Ative o ambiente virtual.
+### 📌 Pergunta 5 — Teste de Hipótese: Clientes Cadastrados Gastam Mais?
 
-No Linux ou macOS:
+> **Hipótese Nula (H₀):** Não há diferença significativa entre o ticket médio de cadastrados e não cadastrados.
+> **Hipótese Alternativa (H₁):** Clientes cadastrados possuem ticket médio maior.
+> **Nível de significância:** 5% (α = 0,05)
 
-```bash
-source .venv/bin/activate
-```
+- Utilizamos o **teste t de Student** para comparar os dois grupos.
+- Se o **valor-p < 0,05**, a diferença é estatisticamente significativa — ou seja, não é por acaso.
+- **Resultado:** A análise mostra que clientes cadastrados tendem a gastar mais por compra, indicando que vale a pena incentivar o cadastro dos clientes da loja.
 
-No Windows:
+---
 
-```bash
-.venv\Scripts\activate
-```
+## 💡 Principais Conclusões
 
-5. Instale as bibliotecas necessárias:
+1. As categorias Camisas e Calças são as maiores geradoras de receita da loja.
+2. Os horários de maior movimento são no período da tarde e início da noite.
+3. As vendas apresentaram crescimento ao longo dos meses analisados.
+4. Existe indicação de que clientes cadastrados gastam mais — o que reforça a importância de manter e ampliar o cadastro de clientes.
 
-```bash
-pip install pandas jupyter
-```
+---
 
-6. Abra o Jupyter Lab:
+## 🤔 Reflexão
 
-```bash
-python -m jupyter lab
-```
+**O que ficou mais fácil em Python do que em planilhas?**
+- Carregar e verificar se existem dados faltantes em segundos, sem precisar conferir linha por linha.
+- Criar automaticamente colunas com dia, mês e horário a partir de uma única coluna de data.
+- Gerar gráficos profissionais para visualizar os resultados de forma clara.
+- Fazer um teste de hipótese com um único comando — algo que seria muito complexo de fazer manualmente em uma planilha.
 
-7. Abra `tratamento_limpeza.ipynb` e use **Run → Run All Cells**.
+**Como a equipe dividiu o trabalho?**
+- Um membro organizou a base de dados e fez a limpeza.
+- Outro estruturou as perguntas e as explicações de cada etapa.
+- Outro revisou o notebook e escreveu as conclusões no README.
 
-O notebook precisa permanecer na pasta principal do projeto, com a pasta `data/` no mesmo nível. Essa estrutura é necessária porque os dados são carregados pelos caminhos `data/loja_roupas.csv` e `data/loja_roupas_tratado_limpo.csv`.
+Cada um contribuiu com uma parte, e juntos conseguimos entregar uma análise completa! ✅
 
-Ao terminar, o ambiente virtual pode ser desativado com:
+---
 
-```bash
-deactivate
-```
+> 📂 **Arquivos do projeto:**
+> - `data/loja_roupas.csv` — Base original
+> - `data/loja_roupas_tratado_limpo.csv` — Base tratada
+> - `desafio_loja_roupas.ipynb` — Notebook com a análise completa
 
-### No Google Colab
-
-Abra o notebook no Colab e envie o arquivo `tratamento_limpeza.ipynb` junto com a pasta `data/`, mantendo a mesma estrutura de diretórios. Depois, use **Ambiente de execução → Executar tudo**.
-
-## Limitações da base
-
-A base não possui identificador individual do cliente, descontos, estoque, custos ou informações de entrega. Por isso, a análise não permite medir recompra individual, margem de lucro, estoque disponível ou tempo de entrega.
